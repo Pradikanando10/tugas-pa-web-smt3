@@ -38,6 +38,11 @@ a.tbl-login:hover {
     text-decoration: none;
 }
 
+.button {
+    display: flex;
+    margin-left: 125px;
+}
+
 a.tbl-layanan {
     background-color: #47B5FF;
     border-radius: 20px;
@@ -46,7 +51,7 @@ a.tbl-layanan {
     color: #FFFFFF;
     cursor: pointer;
     font-weight: bold;
-    margin-left: 250px;
+    margin: 0 50px;
 }
 
 a.tbl-layanan:hover {
@@ -57,11 +62,11 @@ a.tbl-layanan:hover {
 a.tbl-masuk {
     background-color: #47B5FF;
     border-radius: 20px;
-    padding: 15px 20px 15px 20px;
+    padding: 15px 40px 15px 40px;
     color: #FFFFFF;
     cursor: pointer;
     font-weight: bold;
-    margin-left: 285px;
+    /* margin-left: 285px; */
 }
 
 a.tbl-masuk:hover {

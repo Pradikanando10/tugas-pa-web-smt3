@@ -7,12 +7,14 @@
         <div class="colom">
             <p class="deskripsi">Sistem Informasi Layanan Konseling & Kesehatan</p>
         </div>
-        <div class="tombol">
-            <p><a href="" class="tbl-layanan">Layanan Website</a></p>
-            <!-- <p><a href="" class="tbl-masuk">Sign In</a></p> -->
-        </div>
-        <div class="tombol2">
-            <p><a href="" class="tbl-masuk">Sign In</a></p>
+        <div class="button">
+            <div class="tombol">
+                <p><a href="" class="tbl-layanan">Layanan Website</a></p>
+                <!-- <p><a href="" class="tbl-masuk">Sign In</a></p> -->
+            </div>
+            <div class="tombol2">
+                <p><a href="" class="tbl-masuk">Sign In</a></p>
+            </div>
         </div>
         <section id="">
             <h1>BERITA TERKINI</h1>
